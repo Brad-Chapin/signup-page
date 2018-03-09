@@ -1,0 +1,64 @@
+main {
+  background-color: dodgerblue;
+  font-family: helvetica;
+  height:100%;
+}
+
+label {
+  margin-top: 25px;
+}
+
+h1 {
+  text-align: center;
+  color: gray;
+  padding-top: 25px;
+}
+
+p {
+  text-align: center;
+  color: white;
+  padding-bottom: 60px;
+}
+
+p a {
+  color:white;
+}
+
+button {
+  border:2px lightgray solid;
+  border-radius: 2px;
+  width: 100%;
+  padding: 19px 15px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  /* margin-top: 25px; */
+  margin-bottom: 60px;
+}
+
+.logo {
+  display: block;
+  height: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 25px;
+}
+
+.sign-up {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  width: 320px;
+}
+
+.controls {
+  margin-top: 25px;
+  width: 286px;
+  height:21px;
+  padding: 15px;
+  border:2px lightgray solid;
+  border-radius: 2px;
+  margin-bottom: 25px;
+}
